@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Product1",
+    "code": "P001",
+    "category": "Category1",
+    "costPrice": 10.0,
+    "sellingPrice": 15.0,
+    "taxPercent": 10.0,
+    "stockCount": 50
+  },
+  {
+    "name": "Product2",
+    "code": "P002",
+    "category": "Category2",
+    "costPrice": 20.0,
+    "sellingPrice": 25.0,
+    "taxPercent": 8.0,
+    "stockCount": 30
+  }
+]
